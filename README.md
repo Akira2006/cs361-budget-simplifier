@@ -111,3 +111,6 @@ Sequence of communication:
 
 The test program and microservice do not directly call each other.  
 They communicate indirectly through JSON files.
+## UML Sequence Diagram
+
+![UML Diagram](uml_sequence.png)
